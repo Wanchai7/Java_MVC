@@ -17,7 +17,7 @@ public class MVCPatternDemo {
 
         controller.updateView();
         // Output: Student: Name: John Roll No: 10
-        controller.setStudentName("Top");
+        controller.setStudentName("View");
         controller.updateView();
     }
 }
